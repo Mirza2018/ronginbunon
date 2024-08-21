@@ -16,7 +16,7 @@
 
 ## **About**
 
-This is a customize necklace orderWebsite
+This is a customize necklace order Website.
 
 ## **Features**
 
