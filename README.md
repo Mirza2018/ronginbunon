@@ -37,14 +37,14 @@ This is a customize necklace orderWebsite
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-https://github.com/Mirza2018/doc-house.git
-cd doc-house
+https://github.com/Mirza2018/ronginbunon.git
+cd ronginbunon
 npm install
 ```
 
 ### **Running the App**
 ```bash
-cd doc-house
+cd ronginbunon
 npm run dev
 ```
 
